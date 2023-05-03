@@ -1,5 +1,3 @@
 print Loginpage
-
-HII
-
-Hello
+{
+	print
